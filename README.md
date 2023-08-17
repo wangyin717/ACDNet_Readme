@@ -4,8 +4,7 @@
 #### A.1 包下载
 1. 创建 `python 3.7+` 的支持环境.
 2. Install `torch`.
-2. Install `wavio`.
-3. Install `wget` for downloading ESC-50 over HTTP.
+3. Install `wavio`.
 4. Install `FFmpeg` for downsampling and upsampling audio recordings.
 
 #### A.2 数据预处理
